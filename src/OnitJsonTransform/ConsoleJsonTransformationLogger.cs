@@ -1,4 +1,4 @@
-﻿namespace JsonTransform
+﻿namespace OnitJsonTransform
 {
     using System;
     using System.Collections.Generic;
